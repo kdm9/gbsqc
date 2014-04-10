@@ -1,3 +1,4 @@
+#!/usr/bin/awk -f
 BEGIN {
 	FS="\t";
 	RS="\n";
