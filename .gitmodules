@@ -1,0 +1,12 @@
+[submodule "tools/sabre"]
+	path = tools/sabre
+	url = https://github.com/najoshi/sabre.git
+[submodule "tools/seqtkwithpatches"]
+	path = tools/seqtkwithpatches
+	url = https://github.com/kdmurray91/seqtkwithpatches.git
+[submodule "tools/sickle"]
+	path = tools/sickle
+	url = https://github.com/najoshi/sickle.git
+[submodule "tools/scythe"]
+	path = tools/scythe
+	url = https://github.com/vsbuffalo/scythe.git
