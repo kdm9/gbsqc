@@ -10,3 +10,6 @@
 [submodule "tools/scythe"]
 	path = tools/scythe
 	url = https://github.com/vsbuffalo/scythe.git
+[submodule "tools/seqqs"]
+	path = tools/seqqs
+	url = https://github.com/vsbuffalo/seqqs.git
